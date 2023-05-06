@@ -12,6 +12,12 @@
 				</ul>
 			</div>
 			<div class="col-md-6 text-md-right">
+				<ul class="list-inline text-md-right">
+					<li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+					<li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+					<li class="list-inline-item"><a href="#"><i class="fab fa-instagram"></i></a></li>
+				</ul>
+
 				<p class="mb-0">&copy; 2023 Andrew | All Rights Reserved</p>
 			</div>
 		</div>
@@ -31,3 +37,4 @@
 		color: #ffc107;
 	}
 </style>
+<script src="https://kit.fontawesome.com/1e7ae5c719.js" crossorigin="anonymous"></script>
