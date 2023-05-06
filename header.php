@@ -9,6 +9,7 @@
 	<!-- Font Awesome Icons -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-D5FtD5P5oUpenWkYXpGpmfql3q3cKnl2WdBlzJvV7RlKjZpzLO8TJiXrYD2mrPTT6F+V8WZ+z6UvzIgjx6xu0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	<!-- Inline CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-wAkvLgsYjK8/obLfvtILt1GQEM/3q+Z2GKjz9eIoHHkwrZzDwF8aE70jKgMVl6TlTJ4W8NJvPSt7Ou65cqf1Vg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	<style>
 		body {
 			background-color: #F5F5F5;
